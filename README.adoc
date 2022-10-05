@@ -1,0 +1,24 @@
+# Cosine-Similarity
+
+== What does this application do?
+
+This is a simple python application to find out cosine similarity between given documents as well as between text corpus.
+
+
+== Technical Details
+- Python Documentation: link:https://www.python.org/[Python]
+- Version control: git
+- IDE: Pycharm (Pure Python Project with venv)
+
+
+
+== Developer Guide to run the code locally
+==== `git clone https://github.com/kalyansagi/cosine-similarity.git`
+
+==== `cd /cosine-similarity`
+
+==== `git checkout main`
+
+
+
+
